@@ -1,4 +1,4 @@
-# Poetic quote generator
+# AI Poetic quote generator
 
 Quick start:
 
